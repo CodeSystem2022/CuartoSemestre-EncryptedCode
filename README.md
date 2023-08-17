@@ -13,9 +13,9 @@ Diseño para Developers ![image](https://github.com/CodeSystem2022/CuartoSemestr
 
 # Scrum master 2023 :
  # Andrea Llavel 
- | Se1 | 17/08/-21/08/ |👍| Se5 | 12/09/-18/09/ | | Se9  | 10/10/-16/10/ | | Se13 | 07/11/-13/11/ | |
+ | Semana1 | 17/08/-21/08/ |👍| Semana5 | 12/09/-18/09/ | | Semana9  | 10/10/-16/10/ | | Semana13 | 07/11/-13/11/ | |
  # Rocio Pulitta 
- | Se2 | 22/08/-28/08/ |  | Se6 | 19/09/-25/09/ | | Se10 | 17/10/-23/10/ | | Se14 | 14/11/-20/11/ | |
+ | Semana2 | 22/08/-28/08/ |  | Semana6 | 19/09/-25/09/ | | Semana10 | 17/10/-23/10/ | | Semana14 | 14/11/-20/11/ | |
  # Roberto Perez 
  | Se3 | 29/08/-04/09/ |  | Se7 | 26/09/-02/10/ | | Se11 | 24/10/-30/10/ | | Se15 | 21/11/-27/11/ | |
  # Lucas Limachi 
