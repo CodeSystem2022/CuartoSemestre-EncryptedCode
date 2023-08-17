@@ -4,9 +4,8 @@ Java Avanzado ![image](https://github.com/CodeSystem2022/CuartoSemestre-Encrypte
 Node ![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/eba3646d-c965-478f-a481-ead376af1c5b)
 
 # Laboratorio IV
-Python ![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/bf1f6106-c5cb-42ba-95ec-0cade0b236d4)
-Javascript ![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/a5b34376-5894-444e-8a2b-0c084209a861)
-Diseño para Developers ![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/e4733b35-8794-4e14-a365-a5afa79e9c79)
+Python-Javascript-Diseño para Developers
+![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/bf1f6106-c5cb-42ba-95ec-0cade0b236d4)![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/a5b34376-5894-444e-8a2b-0c084209a861)![image](https://github.com/CodeSystem2022/CuartoSemestre-EncryptedCode/assets/112596102/e4733b35-8794-4e14-a365-a5afa79e9c79)
 
 
 # Scrum master 2023 :
