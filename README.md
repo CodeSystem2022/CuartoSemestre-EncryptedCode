@@ -12,24 +12,24 @@ Diseño para Developers ![image](https://github.com/CodeSystem2022/CuartoSemestr
 
 
 # Scrum master 2023 :
- # Andrea Llavel 
- # | Semana1 | 17/08/-21/08/ |👍|
- # | Semana5 | 12/09/-18/09/ | | 
- # |Semana9  | 10/10/-16/10/ | | 
- # |Semana13 | 07/11/-13/11/ | |
- # Rocio Pulitta 
- # | Semana2 | 22/08/-28/08/ |  | 
- # | Semana6 | 19/09/-25/09/ | | 
- # | Semana10 | 17/10/-23/10/ | | 
- # | Semana14 | 14/11/-20/11/ | |
- # Roberto Perez 
- # | Semana3 | 29/08/-04/09/ |  |
- # | Semana7 | 26/09/-02/10/ | | 
- # | Semana11 | 24/10/-30/10/ | | 
- # | Semana15 | 21/11/-27/11/ | |
- # Lucas Limachi 
- # | Semana4 | 05/09/-11/09/ |  | 
- # | Semana8 | 03/10/-09/10/ | | 
- # | Semana12 | 31/10/-06/11/ | | 
- # | Semana16 | 28/11/-04/12/ | |
+ # Andrea Llavel 🌟🌟🌟
+ # | Semana1 👉| 17/08/-21/08/ |👍|
+ # | Semana5 👉| 12/09/-18/09/ | | 
+ # |Semana9  👉| 10/10/-16/10/ | | 
+ # |Semana13 👉| 07/11/-13/11/ | |
+ # Rocio Pulitta 🌟🌟🌟
+ # | Semana2 👉| 22/08/-28/08/ | | 
+ # | Semana6 👉| 19/09/-25/09/ | | 
+ # | Semana10👉| 17/10/-23/10/ | | 
+ # | Semana14👉| 14/11/-20/11/ | |
+ # Roberto Perez 🌟🌟🌟
+ # | Semana3👉 | 29/08/-04/09/ | |
+ # | Semana7👉 | 26/09/-02/10/ | | 
+ # | Semana11👉| 24/10/-30/10/ | | 
+ # | Semana15👉| 21/11/-27/11/ | |
+ # Lucas Limachi 🌟🌟🌟
+ # | Semana4 👉| 05/09/-11/09/ | | 
+ # | Semana8 👉| 03/10/-09/10/ | | 
+ # | Semana12👉| 31/10/-06/11/ | | 
+ # | Semana16👉| 28/11/-04/12/ | |
 
