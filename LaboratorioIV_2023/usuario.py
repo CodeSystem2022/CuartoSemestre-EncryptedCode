@@ -1,3 +1,4 @@
+#Andrea Llavel Issues del ejercicio 1.3
 class usuario: 
     def __init__(self, id_usuario=None, username=None, password=None):
         self.id_usuario = id_usuario   #atributos encapsulados
