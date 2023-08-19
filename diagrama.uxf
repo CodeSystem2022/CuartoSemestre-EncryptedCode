@@ -1,0 +1,76 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>40</x><y>30</y><w>210</w><h>240</h></coordinates><panel_attributes>Conexion
+--
+-DATABASE: String
+-USERNAME: String
+-PASSWORD: String
+-DB PORT: String
+-HOST: String
+-MIN: CON: int
+-MAX CON: int
+-pool:Pool
+--
++obtenerPool(cls): Pool
++obtenerConexion(cls): Connection
++liberarConexiones(cls, conexion)
++cerrarConexiones(cls)
+--
+Responsibilidades:
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>270</x><y>30</y><w>210</w><h>230</h></coordinates><panel_attributes>Usuario
+--
+-id_usuario: int
+-username:String
+-password: String
+--
++__str__(): String
++metodo Get/Set de cada atributo
+--
+Responsibilities
+Crear objetos de entidad Usuario</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>30</y><w>210</w><h>190</h></coordinates><panel_attributes>MenuAppUsuario
+--
+
+Responsibilities
+-Contiene un menu con 5 opciones
+1)Listar usuarios
+2)Agregar usuario
+3)Actualizar usuario
+4)Eliminar usuario
+5)Salir</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>40</x><y>300</y><w>210</w><h>250</h></coordinates><panel_attributes>CursorDelPool
+--
+-conn: String
+-cursor: String
+--
++__init__(self)
++__enter__(self)
++__exit__(self)
+--
+Responsibilities
+Administrar el objeto conexion
+ y cursor obtenidos a partir
+del pool de conexiones 
+Los metodos enter y 
+exit son la implementacion
+del uso 'with' para trabajar 
+con el cursor</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>270</x><y>320</y><w>230</w><h>230</h></coordinates><panel_attributes>UsuarioDao
+--
+-SELECCIONAR: String
+-INSERTAR: String
+-ACTUALIZAR: String
+-ELIMINAR:String
+--
++seleccionar(cls): List&lt;Usuario&gt;
++insertar(cls, usuario)
++actualizar(cls, usuario)
++eliminar(cls, usuario)
+--
+Responsibilities
+Realizar las operaciones 
+CRUD(Create-Read-Update_Delete)
+sobre la entidad Usuario(tabla usuario)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>320</y><w>210</w><h>190</h></coordinates><panel_attributes>logger_base
+--
+logger logging
+
+--
+Responsibilities
+Configurar el logging para la aplicacion</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>250</y><w>30</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;60;10;10;10;70</additional_attributes></element><element><id>UMLClass</id><coordinates><x>40</x><y>10</y><w>700</w><h>550</h></coordinates><panel_attributes>Laboratorio_usuarios_Encrypted_Code
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>400</y><w>50</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;30;10</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>380</y><w>40</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;20;10</additional_attributes></element><element><id>Relation</id><coordinates><x>610</x><y>210</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>130</y><w>50</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;30;10</additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>130</y><w>50</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;30;10</additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>280</y><w>30</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;20;10;10</additional_attributes></element></diagram>
