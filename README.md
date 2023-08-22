@@ -10,7 +10,7 @@ Python-Javascript-Diseño para Developers
 
 # Scrum master 2023 :
  # Andrea Llavel 🌟🌟🌟
- # | Semana1 👉| 17/08/-21/08/ |👍|
+ # | Semana1 👉| 17/08/-21/08/ |*| Completa |
  # | Semana5 👉| 12/09/-18/09/ | | 
  # |Semana9  👉| 10/10/-16/10/ | | 
  # |Semana13 👉| 07/11/-13/11/ | |
