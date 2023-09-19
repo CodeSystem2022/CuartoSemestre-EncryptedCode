@@ -1,5 +1,7 @@
-const shopContent = document.getElementById("shopContent");
+import productos from "./products.js";
 
+const shopContent = document.getElementById("shopContent");
+const cart = [];
 productos.forEach((product) =>{
     const content = document.createElement("div");
     content.innerHTML = `
@@ -11,6 +13,7 @@ productos.forEach((product) =>{
 
     const buyButton = document.createElement("button");
     buyButton.innerText = "Comprar";
+ 
 
     content.append(buyButton);
 
@@ -31,6 +34,7 @@ productos.forEach((product) =>{
                 quanty: product.quanty,
                 img: product.img
             });
+            console.log(cart);
          }
     });
 });
