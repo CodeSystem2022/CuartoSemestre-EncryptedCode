@@ -16,17 +16,17 @@ Python-Javascript-Diseño para Developers
  # |Semana13 👉| 07/11/-13/11/ | |
  # Rocio Pulitta 🌟🌟🌟
  # | Semana2 👉| 22/08/-28/08/ |*| Completa |
- # | Semana6 👉| 19/09/-25/09/ | | 
+ # | Semana7 👉| 26/09-02/10/  | | 
  # | Semana10👉| 17/10/-23/10/ | | 
  # | Semana14👉| 14/11/-20/11/ | |
  # Roberto Perez 🌟🌟🌟
  # | Semana3👉 | 29/08/-04/09/ |*| Completa |
- # | Semana7👉 | 26/09/-02/10/ | | 
+ # | Semana8👉 | 03/10/-09/10/ | | 
  # | Semana11👉| 24/10/-30/10/ | | 
  # | Semana15👉| 21/11/-27/11/ | |
  # Lucas Limachi 🌟🌟🌟
  # | Semana4 👉| 05/09/-11/09/ | Incompleta |Cubierta por otro Scrum |
- # | Semana8 👉| 03/10/-09/10/ | | 
+ # | Semana6 👉| 19/09/25/09/  | Pidio ser Scrum | 
  # | Semana12👉| 31/10/-06/11/ | | 
  # | Semana16👉| 28/11/-04/12/ | |
 
