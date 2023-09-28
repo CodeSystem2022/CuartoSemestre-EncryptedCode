@@ -26,7 +26,7 @@ Python-Javascript-Diseño para Developers
  # | Semana15👉| 21/11/-27/11/ | |
  # Lucas Limachi 🌟🌟🌟
  # | Semana4 👉| 05/09/-11/09/ | Incompleta |Cubierta por otro Scrum |
- # | Semana6 👉| 19/09/25/09/  | Pidio ser Scrum | 
+ # | Semana6 👉| 19/09/25/09/  |*| Completa | 
  # | Semana12👉| 31/10/-06/11/ | | 
  # | Semana16👉| 28/11/-04/12/ | |
 
