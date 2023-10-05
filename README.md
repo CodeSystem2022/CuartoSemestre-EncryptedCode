@@ -16,7 +16,7 @@ Python-Javascript-Diseño para Developers
  # |Semana13 👉| 07/11/-13/11/ | |
  # Rocio Pulitta 🌟🌟🌟
  # | Semana2 👉| 22/08/-28/08/ |*| Completa |
- # | Semana7 👉| 26/09-02/10/  | | 
+ # | Semana7 👉| 26/09-02/10/  |*| Completa |
  # | Semana10👉| 17/10/-23/10/ | | 
  # | Semana14👉| 14/11/-20/11/ | |
  # Roberto Perez 🌟🌟🌟
