@@ -1,4 +1,4 @@
-//Clase 8, Andrea LLavel
+//Clase 8, Andrea LLavel. Callback
 function hola(nombre, miCallback) {
     setTimeout(function() {
         console.log('Hola '+nombre);
