@@ -1,4 +1,4 @@
-//Clase 9, Andrea LLavel
+//Clase 9 de Node, Andrea LLavel
 function hola(nombre, miCallback) {
     setTimeout(function() {
         console.log('Hola '+nombre);
