@@ -1,8 +1,8 @@
 import{pool} from "../db.js";
 
 export const listarTareas = async (req, res) => {
+    console.log(req.usuarioId);
     const resultado = await pool.query('SELECT * FROM tareas');
-    console.log(resultado);
     return res.json(resultado.rows);
     }
     ;
@@ -17,7 +17,7 @@ export const listarTare =  async (req, res) => {
     return res.json(resultado);
 };
 
-export const crearTarea = async(req, res) => {
+export const crearTarea = async(req, res, next) => {
     const { titulo, descripcion} = req.body;
     
 
@@ -57,6 +57,9 @@ export const eliminarTarea = async (req, res) => {
         return res.status(404).json({
             message: 'No existe la tarea con ese id'
         })
+    }
+    return res.sendStatus(204);
+}
     }
     return res.sendStatus(204);
 }
