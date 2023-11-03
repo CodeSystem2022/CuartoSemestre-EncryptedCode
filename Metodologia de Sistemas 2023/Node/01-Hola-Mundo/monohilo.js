@@ -1,3 +1,18 @@
+
+
+console.log('Hola a toda la cohorte 2022');
+
+var i = 0;
+setInterval(function() {
+       console.log(i);
+       i++;
+
+      // if(i == 5){
+      //  console.log('Forzamos un  error');
+      //  var a = 3 + z;
+      // }
+}, 1000);
+console.log('Ultima i
 //Andrea Llavel
 console.log('Hola a toda la cohorte 2022');
 
@@ -10,4 +25,4 @@ setInterval(function() {
       //  var a = 3 + z;
       // }
 }, 1000);
-console.log('Ultima instruccion');
+console.log('Ultima instruccion');in
