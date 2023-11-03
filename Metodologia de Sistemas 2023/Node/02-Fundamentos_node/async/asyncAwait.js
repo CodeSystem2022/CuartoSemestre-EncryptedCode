@@ -1,4 +1,4 @@
-//Clase 11. AsyncAwait. Andrea Llavel
+//Clase 11. AsyncAwait. Andrea Llavel.
 //El async nos esta mostrando , un formato sincrono
 //La palabra async , no es necesaria en las funciones, porque ya son asincronas
 //Igual proyectan una sincronia visual
