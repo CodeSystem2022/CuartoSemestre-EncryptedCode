@@ -1,4 +1,4 @@
-//Clase 12.Andrea Llavel. Globales.js, en Modulos.
+//Clase 12.Andrea Llavel. Globales.js, en Modulos , globales
 //this === global = true
 
 //Mostrar algo en consola
