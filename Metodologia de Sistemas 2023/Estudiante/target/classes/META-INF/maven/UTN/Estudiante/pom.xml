@@ -3,7 +3,17 @@
   <groupId>UTN</groupId>
   <artifactId>Estudiante</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <build>
+        <resources>
+            <resource>
+                <directory>resources</directory>
+                <targetPath>${project.build.outputDirectory}</targetPath>
+                <includes>
+                    <include>application.properties</include>
+                </includes>
+            </resource>
+        </resources>
+</build>
   <dependencies>
   <dependency>
     <groupId>com.mysql</groupId>
